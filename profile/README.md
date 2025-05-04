@@ -6,16 +6,18 @@ Hi there! Welcome to Emotica, your digital assistant for enhancing emotional int
 Whether you're managing your own emotions or improving the way you communicate online, Emotica provides insightful feedback and suggests alternative, more positive expressions to foster healthier interactions. Our mission is to create a more supportive and emotionally intelligent digital space, helping individuals navigate their emotional landscape with confidence and kindness.
 
 Ready to empower your digital communication? Let Emotica guide the way!
-|      ID      | Name                |   Learning Path  |                        Profile                        |
-| :----------: | ------------------- | :--------------: | :---------------------------------------------------: |
-| FC220D5Y0389  | \ [Erliandika Syahputra] |    Full Stack    | [Erliandikasyahputraa](https://github.com/Erliandikasyahputraa)| 
-| FC220D5Y2226  | \[Fajri Nurhadi] |    Full Stack  | [fjreii](https://github.com/fjreii) |
-| MC299D5Y1926  | \[ Addien Munadiya Yunadi] | Machine Learning | [Addienmunadiya](https://github.com/Addienmunadiya) |  
-| MC208D5Y1158   | \[ Mahendra Kirana M.B ] | Machine Learning | [Kyyneko](https://github.com/Kyyneko)| 
-| MC220D5Y0520    | \[Bivandira Aurel Maha Dewa ] | Machine Learning | [BIvandira]()| 
 
-|   Learning Paths   |                               Link                              |
-| :----------------: | :-------------------------------------------------------------: |
+| ID           | Name                                                            | Learning Path    | Profile                                                         |
+| ------------ | --------------------------------------------------------------- | ---------------- | --------------------------------------------------------------- |
+| FC220D5Y0389 | [Erliandika Syahputra](https://github.com/Erliandikasyahputraa) | Full Stack       | [Erliandikasyahputraa](https://github.com/Erliandikasyahputraa) |
+| FC220D5Y2226 | [Fajri Nurhadi](https://github.com/fjreii)                      | Full Stack       | [fjreii](https://github.com/fjreii)                             |
+| MC299D5Y1926 | [Addien Munadiya Yunadi](https://github.com/Addienmunadiya)     | Machine Learning | [Addienmunadiya](https://github.com/Addienmunadiya)             |
+| MC208D5Y1158 | [Mahendra Kirana M.B](https://github.com/Kyyneko)               | Machine Learning | [Kyyneko](https://github.com/Kyyneko)                           |
+| MC220D5Y0520 | [Bivandira Aurel Maha Dewa](https://github.com/BIvandira)       | Machine Learning | [BIvandira](https://github.com/BIvandira)                       |
+
+
+| Learning Paths     | Link                                                            |
+| ------------------ | --------------------------------------------------------------- |
 | Frontend (Next.js) | [Emotica Frontend](https://github.com/YourOrg/emotica-frontend) |
-|  Backend (FastAPI) |  [Emotica Backend](https://github.com/YourOrg/emotica-backend)  |
-|  Machine Learning  | [Emotica ML Model](https://github.com/YourOrg/emotica-ml-model) |
+| Backend (FastAPI)  | [Emotica Backend](https://github.com/YourOrg/emotica-backend)   |
+| Machine Learning   | [Emotica ML Model](https://github.com/YourOrg/emotica-ml-model) |
