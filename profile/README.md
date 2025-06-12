@@ -1,23 +1,68 @@
-## Emotica: A Sentiment Analysis and Positive Rephrasing Assistant
+# Emotica: Analisis Emosi untuk Interaksi Digital yang Lebih Bijak
 
-## About  
-Hi there! Welcome to Emotica, your digital assistant for enhancing emotional intelligence and promoting mental wellness. Emotica leverages the power of machine learning to analyze emotions from text and social media comments, helping you to understand and express yourself better.
+![Emotica Logo](https://raw.githubusercontent.com/Emotica-DBS/FE-Emotica/main/public/logo.svg)
 
-Whether you're managing your own emotions or improving the way you communicate online, Emotica provides insightful feedback and suggests alternative, more positive expressions to foster healthier interactions. Our mission is to create a more supportive and emotionally intelligent digital space, helping individuals navigate their emotional landscape with confidence and kindness.
+Selamat datang di **Emotica**, sebuah aplikasi web yang kami kembangkan untuk membantu pengguna memahami emosi dalam teks secara otomatis. Baik saat menulis postingan media sosial, membaca komentar, maupun meninjau ulasan produk, Emotica hadir untuk mendukung komunikasi digital yang lebih bijak dan berempati.
 
-Ready to empower your digital communication? Let Emotica guide the way!
+> "Bantu generasi muda, content creator, dan penjual online menulis dengan lebih sadar dan penuh pertimbangan."
 
-| ID           | Name                                                            | Learning Path    | Profile                                                         |
-| ------------ | --------------------------------------------------------------- | ---------------- | --------------------------------------------------------------- |
-| FC220D5Y0389 | [Erliandika Syahputra](https://github.com/Erliandikasyahputraa) | Full Stack       | [Erliandikasyahputraa](https://github.com/Erliandikasyahputraa) |
-| FC220D5Y2226 | [Fajri Nurhadi](https://github.com/fjreii)                      | Full Stack       | [fjreii](https://github.com/fjreii)                             |
-| MC299D5Y1926 | [Addien Munadiya Yunadi](https://github.com/Addienmunadiya)     | Machine Learning | [Addienmunadiya](https://github.com/Addienmunadiya)             |
-| MC208D5Y1158 | [Mahendra Kirana M.B](https://github.com/Kyyneko)               | Machine Learning | [Kyyneko](https://github.com/Kyyneko)                           |
-| MC220D5Y0520 | [Bivandira Aurel Maha Dewa](https://github.com/BIvandira)       | Machine Learning | [BIvandira](https://github.com/BIvandira)                       |
+---
 
+## 🔍 Apa yang Emotica Lakukan?
 
-| Learning Paths     | Link                                                            |
-| ------------------ | --------------------------------------------------------------- |
-| Frontend (Next.js) | [Emotica Frontend](https://github.com/YourOrg/emotica-frontend) |
-| Backend (FastAPI)  | [Emotica Backend](https://github.com/YourOrg/emotica-backend)   |
-| Machine Learning   | [Emotica ML Model](https://github.com/YourOrg/emotica-ml-model) |
+- **Analisis Sentimen Teks**: Menentukan apakah sebuah tulisan bernada positif, netral, atau negatif.
+- **Analisis Komentar Produk (Segera Hadir)**: Menganalisis komentar pembeli dari link produk marketplace seperti Shopee atau Tokopedia.
+- **Analisis Postingan Publik (Dalam Pertimbangan)**: Memindai nada emosi dari sebuah postingan beserta komentarnya untuk mengetahui persepsi publik.
+
+> *Catatan: Emotica saat ini tidak menyediakan fitur saran kalimat atau rephrasing.*
+
+---
+
+## 🚀 Coba Demo (Frontend)
+
+Kunjungi antarmuka frontend kami di: [https://emotica.vercel.app](https://emotica.vercel.app) *(khusus demo)*
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+
+| Layer         | Teknologi              |
+| ------------- | ---------------------- |
+| Front-End     | Next.js, Tailwind CSS  |
+| Back-End      | Flask (Python)         |
+| Model ML      | TensorFlow, Keras      |
+| API           | RESTful API (Flask)    |
+
+---
+
+## 👨‍💻 Tim Pengembang
+
+Kami adalah tim lintas keahlian dari program DBS Coding Camp 2025, terdiri dari developer Front-End, Back-End, dan Machine Learning:
+
+| Nama                                    | Peran               | GitHub                                            |
+| --------------------------------------- | ------------------- | ------------------------------------------------- |
+| [Erliandika Syahputra](https://github.com/Erliandikasyahputraa) | Front-End Lead     | [@Erliandikasyahputraa](https://github.com/Erliandikasyahputraa) |
+| [Fajri Nurhadi](https://github.com/fjreii)                    | Back-End Developer | [@fjreii](https://github.com/fjreii)               |
+| [Addien Munadiya Yunadi](https://github.com/Addienmunadiya)   | Machine Learning   | [@Addienmunadiya](https://github.com/Addienmunadiya) |
+| [Mahendra Kirana M.B](https://github.com/Kyyneko)             | Machine Learning   | [@Kyyneko](https://github.com/Kyyneko)             |
+| [Bivandira Aurel Maha Dewa](https://github.com/Vanhousten)    | Machine Learning   | [@Vanhousten](https://github.com/Vanhousten)       |
+
+---
+
+## 📂 Repositori Proyek
+
+| Komponen            | Tautan Repository                                                  |
+| ------------------- | ------------------------------------------------------------------ |
+| Frontend (Next.js)  | [FE-Emotica](https://github.com/Emotica-DBS/FE-Emotica)           |
+| Backend (Flask API) | [BE-Emotica](https://github.com/Emotica-DBS/BE-Emotica)           |
+| Model Machine Learning | [ML-Emotica](https://github.com/Emotica-DBS/ML-EMOTICA)        |
+
+---
+
+## 📜 Lisensi
+
+Proyek ini dibuat untuk keperluan pembelajaran dalam program MBKM DBS Coding Camp 2025. Semua hak cipta dilindungi oleh tim pengembang Emotica.
+
+---
+
+> Dibangun dengan semangat kolaborasi dan empati oleh tim Emotica ❤️
