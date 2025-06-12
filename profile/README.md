@@ -1,6 +1,6 @@
 # Emotica: Analisis Emosi untuk Interaksi Digital yang Lebih Bijak
 
-![Emotica Logo](https://raw.githubusercontent.com/Emotica-DBS/FE-Emotica/main/public/logo.svg)
+![Emotica Logo](https://github.com/Emotica-DBS/FE-Emotica/blob/main/public/assets/logo.png)
 
 Selamat datang di **Emotica**, sebuah aplikasi web yang kami kembangkan untuk membantu pengguna memahami emosi dalam teks secara otomatis. Baik saat menulis postingan media sosial, membaca komentar, maupun meninjau ulasan produk, Emotica hadir untuk mendukung komunikasi digital yang lebih bijak dan berempati.
 
