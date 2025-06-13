@@ -21,9 +21,7 @@ Selamat datang di **Emotica**, sebuah aplikasi web yang kami kembangkan untuk me
 
 ---
 
-## 🚀 Coba Demo (Frontend)
-
-Kunjungi antarmuka frontend kami di: [https://emotica.vercel.app](https://emotica.vercel.app) *(khusus demo)*
+Kunjungi website kami di: [Emotica](https://emotica-dbs.netlify.app/)
 
 ---
 
